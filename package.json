@@ -1,0 +1,27 @@
+{
+  "name": "scn-web",
+  "version": "1.0.0",
+  "description": "Web SolucionesCN.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpaul-dev/scn-web.git"
+  },
+  "keywords": [
+    "WWW",
+    "SCN",
+    "solucionescn"
+  ],
+  "author": "German I. Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpaul-dev/scn-web/issues"
+  },
+  "homepage": "https://github.com/gpaul-dev/scn-web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

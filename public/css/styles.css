@@ -127,6 +127,53 @@ main .servicios p{
     background-color: #33D2;
 }
 
+main .sct-historiasDeExito{
+    color:white;
+    font-family: sans-serif;
+    display:flex;
+    width:100vw;
+    justify-content: stretch;
+}
+
+.sct-historiasDeExito article{
+    width: 25vw;
+    height: 20vw;
+}
+
+.he1{
+    background-color: green;
+}
+.he2{
+    background-color:blue;
+}
+.he3{
+    background-color: white;
+}
+
+.he4{
+    background-color: orange;
+}
+
+.formContainer{
+    background-image: url("/img/Misc/Contact.jpg");
+    display:flex;
+    justify-content: center;
+}
+
+.form{
+    width:30vw;
+    display: flex;
+    flex-wrap: wrap;
+    color:white;
+}
+
+.form input{
+    background-color: transparent;
+    width:100%;
+}
+
+
+
 @media (min-width:576px) {
     main .servicios{
         width:50%;
